@@ -8,4 +8,4 @@ Column definition:
 6 - BMI: Body mass index (kg/m2) |
 7 - DiabetesPedigreeFunction: Diabetes pedigree function |
 8 - Age: how old are you (years)? |
-9 - Outcome: 1 indicating the outcome is diabetes and 0 means no diabetes |
+9 - Outcome: 1 indicating the outcome is diabetes and 0 means no diabetes 

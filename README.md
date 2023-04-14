@@ -1,2 +1,2 @@
-# Assignment-2
+# CS5530-Assignment 2
 Lavy Ngo
